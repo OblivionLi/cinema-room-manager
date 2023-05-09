@@ -1,5 +1,3 @@
-package cinema;
-
 import java.util.Scanner;
 
 public class Cinema {
