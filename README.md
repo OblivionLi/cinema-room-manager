@@ -4,6 +4,8 @@ An easy project provided by JetBrains Academy to learn arrays/loop/etc.
 
 The program prompts the user to provide a number of rows and seats that will create the cinema room and then the user can choose a number of options to manipulate the room/show details about it.
 #### The first inputs of the user will create a multidimensional array with their values as sizes for rows and columns:
+
+##### *Assume that the user provided 6-6 as rows-columns for the purpose of explanation - inputs can be any positive numbers of any size i.e. 9-10 / 12-50 etc..*
 ```
     1   2   3   4   5   6
   +---+---+---+---+---+---+
